@@ -1,0 +1,30 @@
+{
+  "name": "qwik-todo",
+  "version": "0.0.1",
+  "description": "Classic Todo MVC app",
+  "scripts": {
+    "build": "npm run build.client && npm run build.server",
+    "build.client": "vite build",
+    "build.server": "vite build --outDir server/build --ssr src/entry.server.tsx",
+    "dev": "vite",
+    "fmt": "prettier --write .",
+    "fmt.check": "prettier --check .",
+    "serve": "node server/index.js",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "@builder.io/qwik": "0.0.16-10",
+    "autoprefixer": "10.4.2",
+    "express": "4.17.2",
+    "postcss": "8.4.6",
+    "prettier": "2.5.1",
+    "tailwindcss": "3.0.18",
+    "typescript": "^4.5.5",
+    "vite": "2.7.13"
+  },
+  "author": "Builder.io Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.14.0"
+  }
+}

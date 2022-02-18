@@ -1,0 +1,24 @@
+{
+  "mapping": {
+    "Root_withStyles": "q-d62aab9a.js",
+    "Root_onRender": "q-d62aab9a.js",
+    "Root": "q-d62aab9a.js",
+    "Header_onRender_input_onkeyup": "q-d62aab9a.js",
+    "Header_onRender": "q-d62aab9a.js",
+    "Header": "q-d62aab9a.js",
+    "Main_onRender": "q-d62aab9a.js",
+    "Main": "q-d62aab9a.js",
+    "Item_onRender_input_onclick": "q-d62aab9a.js",
+    "Item_onRender_label_ondblclick": "q-d62aab9a.js",
+    "Item_onRender_button_onclick": "q-d62aab9a.js",
+    "Item_onRender_input_onblur": "q-d62aab9a.js",
+    "Item_onRender_input_onkeyup": "q-d62aab9a.js",
+    "Item_onRender": "q-d62aab9a.js",
+    "Item": "q-d62aab9a.js",
+    "Footer_onRender_Filter_a_onclick": "q-d62aab9a.js",
+    "Footer_onRender_button_onclick": "q-d62aab9a.js",
+    "Footer_onRender": "q-d62aab9a.js",
+    "Footer": "q-d62aab9a.js"
+  },
+  "version": "1"
+}
